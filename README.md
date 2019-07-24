@@ -3,7 +3,7 @@
 训练方式：采用预训练+微调
 语言：pytorch1.0
 模型结构
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/xuhaiming1996/Transformer-xl-for-LongDcument-Classify/tree/master/image/model.png)
 
 ## 文件说明
 ###  data
