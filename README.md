@@ -4,7 +4,7 @@
 语言：pytorch1.0
 
 ## 分类模型结构
-![image](https://github.com/xuhaiming1996/Transformer-xl-for-Dcument-Classify/tree/master/image/model.jgp)
+![image](https://github.com/xuhaiming1996/Transformer-xl-for-Dcument-Classify/blob/master/image/model.jpg)
 
 ## 文件说明
 ###  data
