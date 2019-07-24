@@ -2,8 +2,9 @@
 功能：这是一个使用transform-xl实现的长文本分类器。
 训练方式：采用预训练+微调
 语言：pytorch1.0
-模型结构
-![image](https://github.com/xuhaiming1996/Transformer-xl-for-LongDcument-Classify/tree/master/image/model.png)
+
+## 分类模型结构
+![image](https://github.com/xuhaiming1996/Transformer-xl-for-LongDcument-Classify/tree/master/image/model.jgp)
 
 ## 文件说明
 ###  data
