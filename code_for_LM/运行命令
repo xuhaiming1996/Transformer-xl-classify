@@ -1,0 +1,24 @@
+ # 这是训练的目标
+
+ python train.py \
+        --cuda \
+        --data ../data/LM/ \
+        --work_dir ../results/LM/ \
+        --dataset dccl \
+        --n_layer 6 \
+        --d_model 410 \
+        --n_head 10 \
+        --d_head 41 \
+        --tgt_len 150 \
+        --mem_len 150 \
+        --eval_tgt_len 150 \
+        --d_inner 2100 \
+        --dropout 0.1 \
+        --dropatt 0.0 \
+        --optim adam \
+        --lr 0.00025 \
+        --warmup_step 0 \
+        --max_step 200000 \
+        --batch_size 32 \
+        --multi_gpu \
+
